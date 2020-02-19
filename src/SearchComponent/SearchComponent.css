@@ -1,0 +1,21 @@
+.SearchContainer {
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
+    margin: 10px 20px;
+}
+
+.SearchInput {
+    border: 1px solid darkgray;
+    margin-right: 5px;
+    min-width: 30%;
+    padding: 2px;
+    vertical-align: baseline;
+}
+
+.SearchButton {
+    border: 1px solid gray;
+    padding: 2px;
+    vertical-align: baseline;
+    width: auto;
+}

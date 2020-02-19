@@ -1,0 +1,14 @@
+.ImgGridContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ImgGrid {
+  display: flex;
+  margin: .5%;
+  width: 24%;
+}
+
+.ImageItem {
+  width: 100%;
+}
